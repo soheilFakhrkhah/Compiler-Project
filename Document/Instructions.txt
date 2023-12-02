@@ -1,0 +1,14 @@
+(Hello, World!)
+
+
+This is file is designed to help you code with ANT programming language. (Desigend by Soheil Fakhrkhah)
+
+This is phase 1, which is the lexical analyzer section. The written code is based on JavaScript (nodeJs) and as a result it will be dealt with like an script language (Errors will occure when they are found).
+
+*** The important thing in my designed laguage is that every thing except qouts must be separated using a space, otherwise, you will either encounter erros or unpredicted bugs! Be care full. ***
+
+**  The input of this programmed must be entered in the code.txt file! **
+
+In the end, if everything goes acording to instructions in the pdf document, there will be tokens that are generated to the be sent to the next phase. You could see the resulted tokens right in the tokens.txt file.
+
+Hope you enjoy coding with it :)

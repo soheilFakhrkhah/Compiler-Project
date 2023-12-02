@@ -1,0 +1,5 @@
+var Name : 'soheil'
+var Name2 : 'pouya'
+execute func ( ) { }
+circum ( '1' ) :
+other { }
